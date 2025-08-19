@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Informática  
 💻 Enfocado en el desarrollo backend y en formación hacia DevOps y Cloud Computing  
-🌱 Actualmente aprendiendo Docker, AWS y fortaleciendo bases en Node.js, PostgreSQL y MongoDB  
+🌱 Actualmente aprendiendo Docker, AWS y fortaleciendo bases en Python, Django, PostgreSQL y MongoDB  
 
 ---
 
