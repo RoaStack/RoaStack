@@ -1,8 +1,13 @@
 # 👋 Hola, soy Diego Roa
 
-🎓 Estudiante de Ingeniería en Informática  
-💻 Enfocado en el desarrollo backend y en formación hacia DevOps y Cloud Computing  
-🌱 Actualmente aprendiendo Docker, AWS y fortaleciendo bases en Python, Django, PostgreSQL y MongoDB  
+🎓 | Estudiante de Ingeniería en Informática con un fuerte interés en el mundo de los datos.
+📊 | Enfocado en Análisis de Datos y con el objetivo de especializarme en Data Engineering.
+🐍 | Actualmente fortaleciendo mis habilidades en:
+📈 Python (Pandas, NumPy)
+🗃️ SQL (PostgreSQL, Oracle)
+📋 ETL y visualización de datos
+☁️ Herramientas cloud para análisis
+🐳 Docker
 
 ---
 
