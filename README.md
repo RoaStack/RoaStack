@@ -1,6 +1,6 @@
 # 👋 Hola, soy Diego Roa
 
-🎓 Estudiante de Ingeniería en Informática, enfocado en el **desarrollo Backend con Python** y la construcción de aplicaciones y APIs robustas.
+🎓 Estudiante de Ingeniería en Informática, enfocado en el **desarrollo Backend** y la construcción de aplicaciones y APIs robustas.
 
   Actualmente me encuentro fortaleciendo mis habilidades en:
 -  **Python** (FastAPI, Django)
