@@ -2,15 +2,15 @@
 
 🎓 Estudiante de Ingeniería en Informática, enfocado en el **desarrollo Backend con Python** y la construcción de aplicaciones y APIs robustas.
 
-🔧 Actualmente me encuentro fortaleciendo mis habilidades en:
-- 🐍 **Python** (FastAPI, Django)
-- 🌐 **Desarrollo de APIs REST**
-- 🗃️ **SQL** (PostgreSQL, Oracle)
-- 🧱 Modelado de datos y lógica de negocio
-- 🐳 **Docker**
-- ☁️ Fundamentos de **Cloud Computing**
+  Actualmente me encuentro fortaleciendo mis habilidades en:
+-  **Python** (FastAPI, Django)
+-  **Desarrollo de APIs REST**
+-  **SQL** (PostgreSQL, Oracle)
+-  Modelado de datos y lógica de negocio
+-  **Docker**
+-  Fundamentos de **Cloud Computing**
 
-🎯 Mi objetivo actual es **realizar mi práctica profesional en Backend**, participar en proyectos reales y seguir desarrollando bases sólidas en sistemas backend y arquitectura de software.
+ Mi objetivo actual es **realizar mi práctica profesional en Backend**, participar en proyectos reales y seguir desarrollando bases sólidas en sistemas backend y arquitectura de software.
 
 ---
 
